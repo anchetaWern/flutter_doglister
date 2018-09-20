@@ -2,6 +2,11 @@
 
 A hello-world Flutter app that loads dog pictures from an API.
 
+Full tutorial is available at:
+
+- [https://pusher.com/tutorials/introducing-flutter-part-1](https://pusher.com/tutorials/introducing-flutter-part-1)
+- [https://pusher.com/tutorials/introducing-flutter-part-2](https://pusher.com/tutorials/introducing-flutter-part-2)
+
 
 ## Prerequisites
 
